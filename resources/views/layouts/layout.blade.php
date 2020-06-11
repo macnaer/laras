@@ -167,6 +167,7 @@
 						<li class="nav-item"><a class="nav-link" href="{{ route('page.teachers') }}">Teachers</a></li>
 						<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
 						<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ route('post.create') }}">Add post</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
                         <li><a class="hover-btn-new log" href="#" data-toggle="modal" data-target="#login"><span>Book Now</span></a></li>
