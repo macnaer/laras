@@ -164,7 +164,7 @@
 								<a class="dropdown-item" href="blog-single.html">Blog single </a>
 							</div>
 						</li>
-						<li class="nav-item"><a class="nav-link" href="teachers.html">Teachers</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ route('page.teachers') }}">Teachers</a></li>
 						<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
 						<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
 					</ul>

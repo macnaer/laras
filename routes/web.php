@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'PostController@index');
 Route::get('post/', 'PostController@index')->name('post.index');
 Route::get('about', 'PageController@about')->name('page.about');
+Route::get('teachers', 'PageController@teachers')->name('page.teachers');
+
